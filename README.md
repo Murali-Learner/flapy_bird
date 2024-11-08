@@ -1,16 +1,18 @@
-# flappy_bird_flame
 
-A new Flutter project.
+https://github.com/user-attachments/assets/f27b6d64-e607-4ba6-bfde-080d58e60ec0
+# Flappy Bird Clone 🐦
+
+A simple Flappy Bird clone built with Flutter and Flame engine.
+
+## Features
+- Smooth 2D gameplay
+- Basic physics for bird movement and obstacle interaction
+- Real-time score updates
+- Collision detection for obstacles
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**
+   ```bash
+   https://github.com/Murali-Learner/flapy_bird.git
+   cd flapy_bird
