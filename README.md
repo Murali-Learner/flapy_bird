@@ -1,8 +1,9 @@
 
-https://github.com/user-attachments/assets/f27b6d64-e607-4ba6-bfde-080d58e60ec0
 # Flappy Bird Clone 🐦
 
 A simple Flappy Bird clone built with Flutter and Flame engine.
+
+https://github.com/user-attachments/assets/f27b6d64-e607-4ba6-bfde-080d58e60ec0
 
 ## Features
 - Smooth 2D gameplay
